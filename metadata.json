@@ -1,0 +1,6 @@
+{
+  "name": "Stories Hydro Tracker",
+  "description": "Sistema de gestão de consumo de água para o condomínio Stories Residence com extração inteligente de dados de PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
